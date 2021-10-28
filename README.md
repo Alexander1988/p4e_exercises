@@ -1,2 +1,2 @@
 # p4e_exercises
-exercises from Coursers
+exercises from Coursera
